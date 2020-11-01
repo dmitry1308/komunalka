@@ -1,2 +1,16 @@
-# Project exclude paths
-/target/
+# JetBrains IDEs
+out/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Maven
+log/
+target/
+
+*.txt
+
+src/test/
